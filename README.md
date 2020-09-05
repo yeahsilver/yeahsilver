@@ -6,7 +6,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahsilver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:gjdpdms2005@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:gjdpdms2005@gmail.com) 
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/0_0yeggy)](https://blog.naver.com/0_0yeggy)
 
   </div>
   

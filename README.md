@@ -1,11 +1,17 @@
-### Hi there 👋
-
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
-  </div>
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeahsilver)](https://github.com/yeahsilver/github-readme-stats)
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:gjdpdms2005@gmail.com)
+
+  </div>
+  
+  
+	
 <!--
 **yeahsilver/yeahsilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

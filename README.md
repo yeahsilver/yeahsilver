@@ -12,7 +12,7 @@
   
 ### 🔭  Feel free to find what you are looking for 🔭
 #### My Repository contains
-- [[C++] Algorithm problems based on boj](https://github.com/yeasilver/algorithm)
+- [[C++] Algorithm problems based on boj](https://github.com/yeahsilver/algorithm)
 - [[Android Studio] Calculate your daily nutrient intake in your mobile! MOBI (Text Recognition using Camera X)](https://github.com/yeasilver/MOBI)
 - [[Swift] Preventing of Cheating through detecting your eyes' movement !](https://github.com/SSU-imonitor/imonitor-app)
 - [[Swift] Encounter error in Swift? Click here ASAP!](https://github.com/yeasilver/swift-error-compilation)

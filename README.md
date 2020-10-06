@@ -11,7 +11,7 @@
 
   </div>
   
-### 🔭  Feel free to find what you are looking for 🔭
+### 🔭  Feel free to get what you are looking for 🔭
 #### 📍 My Github contains
 - [[C++] Algorithm Problems based on boj](https://github.com/yeahsilver/algorithm)
 - [[Android Studio] Calculate your daily nutrient intake in your mobile! MOBI (Text Recognition using Camera X)](https://github.com/yeahsilver/MOBI)

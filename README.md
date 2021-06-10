@@ -1,15 +1,38 @@
+
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <br />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+</p>
+
+<br />
+
 <div align=center>
+<h3> 📱 Contacts 📱 <h3>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahsilver)](https://hits.seeyoufarm.c022om) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:gjdpdms2005@gmail.com) 
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/0_0yeggy)](https://blog.naver.com/0_0yeggy)
+</div>
+
+<br />
 	
+<!-- <div align=center>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahsilver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:gjdpdms2005@gmail.com) 
-    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/0_0yeggy)](https://blog.naver.com/0_0yeggy)
-
-  </div>
+  </div> -->
+	
+<br />
+	
   
 ### 🔭  Feel free to get what you are looking for 🔭
 #### 📍 My Github contains
@@ -25,6 +48,14 @@
 - [[HTML/CSS/Nodejs] Online Group Study platform, OPEN STUDY](https://github.com/HamInKyou/openstudy)
 
 
+<br />
+	
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeahsilver)](https://hits.seeyoufarm.c022om) 
+	
+</div>
+  
 <!--
 **yeahsilver/yeahsilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

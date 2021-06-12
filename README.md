@@ -1,4 +1,7 @@
-# Yeeun Heo
+<h1 align="center"> 👩‍💻 Yeeun Heo 👩‍💻 </h1>
+
+<br /> 
+
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 
 <p align="center">

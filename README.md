@@ -48,7 +48,7 @@
   
 ### 🔭  Feel free to get what you are looking for 🔭
 #### 📍 My Github contains
-- [[C++/Python] Algorithm Problems](https://github.com/yeahsilver/algorithm)
+- [[C++] Algorithm Problems](https://github.com/yeahsilver/algorithm)
 - [[Android Studio] Calculate your daily nutrient intake in your mobile! MOBI (Text Recognition using Camera X)](https://github.com/yeahsilver/MOBI)
 - [[Swift/RxSwift] Preventing of Cheating through detecting your eyes' movement !](https://github.com/SSU-IMonitor/imonitor-app)
 - [[Swift Framework] UIView Animation Framework](https://github.com/yeahsilver/SwiftUIViewAnimation)

@@ -57,7 +57,7 @@
 - [[Swift] PING! PONG! PING! PONG! Let's play PONG Game!](https://github.com/yeahsilver/Pong-Game)
 - [[Book Summary] Clean Code written by Robert C. Martin](https://github.com/yeahsilver/Clean_code)
 - [[React/Nodejs] Online Prevention of Cheating Platform using 360 degrees Cam](https://github.com/2020pingus/camtact_document)
-- [[HTML/CSS/Django] Soongsil University College of Software Website For Welfare Service](https://github.com/jjong0225/HBW)
+- [[HTML/CSS/Django] Website For Welfare Service](https://github.com/jjong0225/HBW)
 - [[HTML/CSS/Nodejs] Online Group Study platform, OPEN STUDY](https://github.com/HamInKyou/openstudy)
 
 

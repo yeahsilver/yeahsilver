@@ -22,8 +22,6 @@
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:yeeun.dev@gmail.com) 
 [![Naver Badge](http://img.shields.io/badge/-blog%20(KR)-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/0_0yeggy)](https://blog.naver.com/0_0yeggy)
-[![Medium Badge](http://img.shields.io/badge/-blog%20(EN)-000000?style=flat-square&logo=Medium&logoColor=white&link=https://blog.naver.com/0_0yeggy)](https://gjdpdms2005.medium.com)
-	
 	
 </div>
 

@@ -21,8 +21,7 @@
 <h3> 📱 Contacts 📱 <h3>
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gjdpdms2005@gmail.com)](mailto:yeeun.dev@gmail.com) 
-[![Naver Badge](http://img.shields.io/badge/-blog%20(KR)-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/0_0yeggy)](https://blog.naver.com/0_0yeggy)
-	
+
 </div>
 
 <br />
